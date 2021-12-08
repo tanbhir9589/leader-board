@@ -1,0 +1,50 @@
+body{
+font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+background-color:  #F3F1FF;
+
+}
+.navbar-nav{
+    margin-left: auto !important;
+    padding-right: 225px;
+  
+    
+}
+
+.top-player h3{
+    
+    padding-top: 40px;
+    padding-bottom: 30px;
+    color: #562EFF;
+}
+.navbar img {
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+main{
+    width: 870px;
+    
+}
+.top-player{
+    background-color:  #FFFFFF;
+    padding-left: 70px;
+}
+.boder p{
+    border: 1px solid #D1D1D1;
+    margin-right: 60px;
+}
+.blog img{
+    width: 215px;
+}
+.blog-text p{
+    color: #9F9F9F;
+}
+.blog-text{
+    margin-left: 20px;
+}
+span{
+    color: #562EFF;
+}
