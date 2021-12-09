@@ -7,7 +7,7 @@ background-color:  #F3F1FF;
 }
 .navbar-nav{
     margin-left: auto !important;
-    padding-right: 225px;
+   
   
     
 }
@@ -26,6 +26,7 @@ background-color:  #F3F1FF;
 }
 main{
     width: 870px;
+    padding-bottom: 20px;
     
 }
 .top-player{
@@ -47,4 +48,37 @@ main{
 }
 span{
     color: #562EFF;
+}
+.card-all img{
+    width: 265px;
+}
+.card-all p{
+    color: #ED6B4F;
+}
+.card{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    
+}
+.last{
+    width: 870px;
+    background-color:  #FFFFFF;
+    margin-bottom: 20px ;
+}
+.last h3{
+    color:  #562EFF;
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.clock {
+    border: 5px black;
+    border-radius: 15px ;
+    background-color: rgb(233, 94, 94);
+    color: lightgrey;
+    padding: 5px;
+    margin-left: 60px;
+    
+}
+span{
+    margin-left: 5px;
 }
